@@ -19,3 +19,7 @@ img {
     height: 50px;
     border: 1px solid black;
 }
+
+.entity-block {
+    z-index: 10;
+}
